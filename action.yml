@@ -1,4 +1,4 @@
-name: "Deploy Stack"
+name: "Deploy Stack test"
 description: "Deploys a stack in Okteto Cloud"
 inputs:
   namespace: 
